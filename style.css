@@ -1,0 +1,23 @@
+body {
+    background-color:#191970;
+    color: white;
+    font-family: 'Caveat', cursive;
+letter-spacing: 2px;
+font-size: 18px;
+font-weight: bolder;
+}
+
+.copy_right_footer {
+    font-family: 'Nanum Pen Script', cursive;
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 10px
+}
+
+
+
